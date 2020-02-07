@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/lxn/walk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/lxn/win" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/blog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/crypto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/dep" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/exp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/image" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/lint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/mobile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/net" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/oauth2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/review" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/sync" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/sys" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/term" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/text" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/time" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/tour" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/golang.org/x/vgo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/gopkg.in/Knetic/govaluate.v3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/gopkg.in/fsnotify/fsnotify.v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/gopkg.in/go-playground/validator.v8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/gopkg.in/natefinch/lumberjack.v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/gopkg.in/stack.v0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/gopkg.in/yaml.v2" vcs="Git" />
+  </component>
+</project>
